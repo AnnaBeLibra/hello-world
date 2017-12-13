@@ -7,3 +7,4 @@ this is my first repo (not really)
 As known 
 >We learn by practice
 * step 3
+Many things to learn and do (http://google.com)
